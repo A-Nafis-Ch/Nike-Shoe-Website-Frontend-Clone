@@ -1,4 +1,4 @@
-# Nike Show Website Landing Page Layout Clone
+# Nike Shoe Website Landing Page Layout Clone
 
 This cloning project shows the expertise of frontend development in React Vite, HTML, CSS, and JS component.
 
